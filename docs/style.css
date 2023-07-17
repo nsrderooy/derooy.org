@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("secure-pc-lineart-dark.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+}
+
+h1 {
+    color: #8B0000; /* Blood red color */
+    text-align: center;
+    padding-top: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
